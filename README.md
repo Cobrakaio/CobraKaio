@@ -18,4 +18,4 @@
 </div><br/>
 
 # Sobre mim
-#### Desenvolvedor focado em C#, atualmente procurando o primeiro emprego na area de desenvolvimento de software.
+#### Desenvolvedor full stack, atualmente procurando o primeiro emprego na area de desenvolvimento de software.
